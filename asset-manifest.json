@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/productionEsteeLauder/static/css/main.94a95c9d.css",
+    "main.js": "/productionEsteeLauder/static/js/main.c7f302c4.js",
+    "static/media/imgheader2.png": "/productionEsteeLauder/static/media/imgheader2.d53993d78bd0fac7a513.png",
+    "static/media/T1.jpg": "/productionEsteeLauder/static/media/T1.d96cf2b5acd41d4121c7.jpg",
+    "static/media/image 3.png": "/productionEsteeLauder/static/media/image 3.45cf8d8ca9cdb948865f.png",
+    "static/media/B1.png": "/productionEsteeLauder/static/media/B1.99b546e54d43a810b6c9.png",
+    "static/media/Rectangle22.png": "/productionEsteeLauder/static/media/Rectangle22.40c4185d8857b7b5352a.png",
+    "static/media/T2.png": "/productionEsteeLauder/static/media/T2.9db3eeb5d78fd873edcf.png",
+    "static/media/BRONZINGBANNER.jpeg": "/productionEsteeLauder/static/media/BRONZINGBANNER.2588e103b13073c5aba3.jpeg",
+    "static/media/test-creme.png": "/productionEsteeLauder/static/media/test-creme.3ef85039d61dcdd0a2dc.png",
+    "static/media/image 4.png": "/productionEsteeLauder/static/media/image 4.df69976e64c69c9e90bf.png",
+    "static/media/B4.png": "/productionEsteeLauder/static/media/B4.2f7bee3aa7d2d3cb24fa.png",
+    "static/media/B2.png": "/productionEsteeLauder/static/media/B2.bc60db98bfec564f4597.png",
+    "static/media/B3.png": "/productionEsteeLauder/static/media/B3.5a65803a32777e016775.png",
+    "static/media/Rectangle1.png": "/productionEsteeLauder/static/media/Rectangle1.d911bcf9239c2244ca8c.png",
+    "static/media/Rectangle4.png": "/productionEsteeLauder/static/media/Rectangle4.141f3367f36708f9d545.png",
+    "static/media/Rectangle3.png": "/productionEsteeLauder/static/media/Rectangle3.88a0b99055439c964f52.png",
+    "index.html": "/productionEsteeLauder/index.html",
+    "main.94a95c9d.css.map": "/productionEsteeLauder/static/css/main.94a95c9d.css.map",
+    "main.c7f302c4.js.map": "/productionEsteeLauder/static/js/main.c7f302c4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.94a95c9d.css",
+    "static/js/main.c7f302c4.js"
+  ]
+}
