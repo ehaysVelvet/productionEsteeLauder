@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/productionEsteeLauder/static/css/main.94a95c9d.css",
-    "main.js": "/productionEsteeLauder/static/js/main.c7f302c4.js",
+    "main.js": "/productionEsteeLauder/static/js/main.aa6191bb.js",
     "static/media/imgheader2.png": "/productionEsteeLauder/static/media/imgheader2.d53993d78bd0fac7a513.png",
     "static/media/T1.jpg": "/productionEsteeLauder/static/media/T1.d96cf2b5acd41d4121c7.jpg",
     "static/media/image 3.png": "/productionEsteeLauder/static/media/image 3.45cf8d8ca9cdb948865f.png",
@@ -19,10 +19,10 @@
     "static/media/Rectangle3.png": "/productionEsteeLauder/static/media/Rectangle3.88a0b99055439c964f52.png",
     "index.html": "/productionEsteeLauder/index.html",
     "main.94a95c9d.css.map": "/productionEsteeLauder/static/css/main.94a95c9d.css.map",
-    "main.c7f302c4.js.map": "/productionEsteeLauder/static/js/main.c7f302c4.js.map"
+    "main.aa6191bb.js.map": "/productionEsteeLauder/static/js/main.aa6191bb.js.map"
   },
   "entrypoints": [
     "static/css/main.94a95c9d.css",
-    "static/js/main.c7f302c4.js"
+    "static/js/main.aa6191bb.js"
   ]
 }
