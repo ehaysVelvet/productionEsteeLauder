@@ -1,0 +1,68 @@
+.refresh{
+  width: 100%;
+
+  h3 {
+    font-size: 24px;
+    font-weight: 200;
+    font-family: ano_regular, Helvetica, Arial, sans-serif;
+    color: white;
+  }
+
+  .main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+  }
+
+  .header{
+    height: 80px;
+    background-color: black;
+  }
+
+  .pochette{
+    height: 120px;
+    background-color: black;
+  }
+
+  .carrousel{
+    height: 400px;
+    background-color: #727272;
+  }
+
+  .macstack{
+    height: 400px;
+    background-color: white;
+
+    h3 {
+      color: black;
+    }
+  }
+
+  .main2{
+    width: 100%;
+    max-width: 1440px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: white;
+    margin: 0 auto;
+    margin-bottom: 20px;
+    flex-wrap: wrap;
+
+    .main22 {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      width: 250px;
+      height: 300px;
+      margin: 20px;
+      background-color: #b1465b;
+
+      h3 {
+        font-size: 20px;
+        text-align: center;
+      }
+    }
+  }
+}

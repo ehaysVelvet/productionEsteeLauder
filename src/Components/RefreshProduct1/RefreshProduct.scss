@@ -1,0 +1,103 @@
+.refreshproduct{
+    width: initial;
+    margin: 0 auto;
+   padding: 0 6%;
+    
+  .archi {
+    display: flex;
+    flex-direction: column;
+    margin-top: 18px;
+    // @media screen and (max-width: 900px) {
+    //   padding: 0 4%;
+    // }
+    // @media screen and (max-width: 700px) {
+    //   padding: 0 1%;
+    // }
+
+  }
+  .flex-container {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    justify-content: center;
+    flex-direction: row;
+    width: 100%;
+    margin-top: 40px;
+
+  }
+
+  .item {
+    display: flex;
+    flex-direction: column;
+    height: auto;
+    margin: 0%;
+    padding: 0%;
+    justify-content: space-between;
+  }
+  .info{
+    display: flex;
+    flex: 1;
+    flex-wrap: wrap;
+    text-align: left;
+    padding-top: 20px;
+    height: auto;
+    width: 100%;
+    flex-direction: column;
+    margin-bottom: 20px;
+    .data{
+        display: block;
+    padding-bottom: 20px;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+        }
+    .action {
+        cursor: pointer;
+        text-transform: uppercase;
+        text-decoration: none;
+        font-family: Helvetica,Arial,sans-serif;
+        font-size: 14px;
+        font-style: normal;
+        font-weight: 700;
+        letter-spacing: 0;
+        line-height: 1.14286;
+        display: inline-block;
+        position: relative;
+        border-bottom-style: solid;
+        border-bottom-width: 1px;
+
+    }
+    }
+  .test{
+      margin-right: 20PX;
+      @media screen and (max-width: 800px) {
+        margin-right: 0px;
+      }
+
+
+  }
+  .titre{
+      color:  black;
+      font-size: 24px;
+    line-height: 1.16667;
+    font-family: Helvetica,Arial,sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    letter-spacing: O;
+    display: block;
+    padding-bottom: 20px;
+  }
+  .fit-picture{
+      max-width: 100%;
+      width: 100%;
+      height: 340px;
+
+    @media screen and (max-width: 900px) {
+      height: auto;
+
+    }
+     @media screen and (max-width: 700px) {
+      height: auto;
+     }
+  }
+
+}
